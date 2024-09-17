@@ -1,0 +1,16 @@
+{
+  "products": {
+    "samsungGalaxyS6": {
+      "name": "Samsung galaxy s6",
+      "href": "prod.html?idp_=1"
+    }
+  },
+  "customer": {
+    "fullnam": "John Doe",
+    "country": "USA",
+    "city": "New York",
+    "card": "123456789",
+    "month": "12",
+    "year": "2024"
+  }
+}
